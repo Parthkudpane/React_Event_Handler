@@ -1,14 +1,11 @@
 
-import SingleFunctionForm from "./HandleForm/SingleFunctionForm"
+import ReactHookForm from "./HandleForm/ReactHookForm"
  
 const App = () => {
   return (
       <>
-      
-
-          <SingleFunctionForm />
-
-          
+ 
+          <ReactHookForm />
       </>
   )
 }
